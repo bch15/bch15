@@ -71,4 +71,9 @@
 ### 📊My GitHub Stats :
 [![](https://visitcount.itsvg.in/api?id=bch15&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-![](https://github-readme-stats.vercel.app/api?username=bch15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bch15&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bch15&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bch15&theme=tokyonight&utcOffset=8)
+<a target="_blank" rel="noopener noreferrer"  href="https://camo.githubusercontent.com/d51502f7e15eaa56496196e0c1bbb9b992e1d9d884ffa199249aed5f9a238eab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62636831352673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565">
+<img width="678px" height="224px" src="https://camo.githubusercontent.com/d51502f7e15eaa56496196e0c1bbb9b992e1d9d884ffa199249aed5f9a238eab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62636831352673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bch15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" style="min-width: 100% !important;">
+</a>
