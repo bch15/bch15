@@ -3,15 +3,12 @@
 - 🎓 I’m a Frontend developer & Blockchain Researcher interested in Web3.
 
 
-- 🔥 I’m currently learning Solidity and Web3.  
+- 🔥 I’m currently learning Solidity and Rust.  
   
 
-- ⚡ I have a passion for blockchain, web3, smart contract, frontend and more.  
+- ⚡ I have a passion for blockchain, web3, smart contract and frontend.  
   
-
-- 🎯 My current goal is to become a highly skilled blockchain developer.
   
-
 <br/>  
 
 ### 🖥Skills
