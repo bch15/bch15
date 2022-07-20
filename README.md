@@ -11,6 +11,7 @@ I'm a frontend developer, blockchain researcher.
 - JS / TS
 - React
 - Next.js
+- Smartcontract
 
 ## ⚡Connect with me  
 <div align="left">
@@ -25,8 +26,8 @@ I'm a frontend developer, blockchain researcher.
 <br/>  
 
 ## 📊My GitHub Stats :
-[![](https://visitcount.itsvg.in/api?id=bch15&icon=0&color=0)](https://visitcount.itsvg.in)
----
+![](https://komarev.com/ghpvc/?username=bch15&style=for-the-badge&color=orange)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bch15&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bch15&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bch15&theme=tokyonight&utcOffset=8)
